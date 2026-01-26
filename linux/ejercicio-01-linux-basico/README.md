@@ -3,25 +3,48 @@
 
 ## Objetivo
 
-Familiarizarse con el uso de Linux desde la terminal y entender la estructura
-básica del sistema operativo orientado a administración de sistemas.
+Adquirir una primera toma de contacto con Linux desde la terminal, comprendiendo
+la estructura básica del sistema y los comandos esenciales utilizados en
+administración de sistemas.
 
 ## Entorno
 
 - Sistema: Ubuntu Server
 - Virtualización: Virtualbox
 - Usuario administrador con sudo
+- Acceso: Consola local / SSH
+- Usuario con privilegios sudo
 
 ## Tareas realizadas
 
-- Acceso al sistema por consola
-- Uso de comandos básicos (ls, cd, pwd, mkdir, cp, mv, rm)
-- Gestión de archivos y directorios
-- Interpretación de la jerarquía del sistema Linux
+- Inicio y acceso al sistema Linux
+- Uso de la terminal
+- Navegación por el sistema de archivos
+- Creación y eliminación de directorios
+- Gestión básica de archivos
+
+## Comandos utilizados
+
+- "ls"
+- "cd"
+- "pwd"
+- "mkdir"
+- "touch"
+- "cp"
+- "mv"
+- "rm"
+
+## Evidencias
+
+Las capturas del ejercicio se encuentran en la carpeta  "capturas/":
+
+- Acceso al sistema
+- Uso de comandos básicos
+- Estructura de directorios creada
 
 ## Resultado
 
-Sistema operativo y accesible, con comprensión básica del entorno
-Linux y de la terminal.
+Se ha adquirido una base sólida para el manejo de Linux desde la terminal, 
+necesaria para continuar con tareas de administración más avanzadas.
 
 
