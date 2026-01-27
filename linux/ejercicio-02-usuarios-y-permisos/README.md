@@ -3,7 +3,7 @@
 
 ## Objetivo
 
-Practicar la gestión de usuarios,grupos y permisos en un sistema Linux.
+Practicar la gestión de usuarios, grupos y permisos en un sistema Linux.
 
 ## Entorno
 
