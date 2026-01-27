@@ -1,22 +1,41 @@
 # Ejercicio 02 - Usuarios y permisos en Linux
 
+
 ## Objetivo
 
-Gestionar usuarios, grupos y permisos para controlar el acceso a recursos del sistema.
+Practicar la gestión de usuarios,grupos y permisos en un sistema Linux.
 
 ## Entorno
 
-- Ubuntu Server
-- Virtualbox
+- Sistema: Ubuntu Server
+- Usuario administrador: asir
+- Máquina virtual: VirtualBox
 
-## Tareas realizadas
 
-- Creación de usuarios y grupos
-- Asignación de permisos
-- Uso de chmod, chown y grupos
-- Pruebas de acceso con distintos usuarios
+## Pasos realizados
 
-## Resultado
+### 1. Creación de usuarios
 
-Sistema configurado con control de accesos coreecto y funcional.
+Se crean los usuarios empleado1 y empleado2.
+
+### 2. Creación de grupo
+
+Se crea el grupo empresa y se añaden los usuarios.
+
+### 3. Creación de directorios
+
+Se crea el directorio /empresa con permisos controlados.
+
+### 4. Asignación de permisos
+
+Se aplican permisos para que solo el grupo empresa pueda acceder.
+
+### 5. Comprobaciones
+
+Se verifica el acceso correcto e incorrecto según usuario.
+
+
+## Capturas
+
+Las capturas del proceso se encuentran en la carpeta "capturas/".
 
